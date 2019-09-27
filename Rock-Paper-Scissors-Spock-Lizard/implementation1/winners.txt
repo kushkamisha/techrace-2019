@@ -1,0 +1,12 @@
+rock lizard
+lizard spock
+spock rock
+
+rock scissors
+scissors paper
+paper rock
+
+spock scissors
+scissors lizard
+lizard paper
+paper spock
