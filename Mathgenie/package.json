@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mathjs": "^6.2.3",
+    "mathjs": "^7.5.1",
     "node-telegram-bot-api": "^0.40.0"
   },
   "engines": {
